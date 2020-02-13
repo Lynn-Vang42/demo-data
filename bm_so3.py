@@ -15,4 +15,4 @@ def bm_so3() -> None:
     ]
     benchmark(TestSO3.so3_expmap, "SO3_EXP", kwargs_list, warmup_iters=1)
     benchmark(TestSO3.so3_logmap, "SO3_LOG", kwargs_list, warmup_iters=1)
-# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.

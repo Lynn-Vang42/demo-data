@@ -230,4 +230,4 @@ class TestTexturing(TestCaseMixin, unittest.TestCase):
         )
         clipped = _clip_barycentric_coordinates(barycentric_coords)
         self.assertTrue(torch.allclose(clipped, expected_out))
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.

@@ -339,4 +339,4 @@ class TestRenderingMeshes(unittest.TestCase):
         images = renderer(mesh)
         images[0, ...].sum().backward()
         self.assertIsNotNone(verts.grad)
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

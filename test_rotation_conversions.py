@@ -158,4 +158,4 @@ class TestRotationConversion(unittest.TestCase):
         [p, q] = torch.autograd.grad(transform1.sum(), [points, quaternions])
         self.assertTrue(torch.isfinite(p).all())
         self.assertTrue(torch.isfinite(q).all())
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

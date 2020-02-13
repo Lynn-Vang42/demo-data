@@ -559,4 +559,4 @@ class TestSpecularLighting(unittest.TestCase):
             shininess=10.0,
         )
         self.assertTrue(torch.allclose(output_light, expected_output))
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

@@ -124,4 +124,4 @@ class TestStructUtils(TestCaseMixin, unittest.TestCase):
             )
             self.assertClose(x_packed[cur : cur + x_dims[i]], x[i])
             cur += x_dims[i]
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

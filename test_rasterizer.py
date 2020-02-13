@@ -107,4 +107,4 @@ class TestMeshRasterizer(unittest.TestCase):
                 DATA_DIR / "DEBUG_test_rasterized_sphere_zoom.png"
             )
         self.assertTrue(torch.allclose(image, image_ref))
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

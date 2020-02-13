@@ -95,4 +95,4 @@ class TestMaterials(TestCaseMixin, unittest.TestCase):
         self.assertTrue(mat.diffuse_color.shape == (10, 3))
         self.assertTrue(mat.specular_color.shape == (10, 3))
         self.assertTrue(mat.shininess.shape == (10,))
-# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

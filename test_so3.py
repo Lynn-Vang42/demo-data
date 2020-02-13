@@ -198,4 +198,4 @@ class TestSO3(unittest.TestCase):
             torch.cuda.synchronize()
 
         return compute_logs
-# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.

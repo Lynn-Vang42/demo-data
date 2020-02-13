@@ -537,4 +537,4 @@ class TestMeshObjIO(unittest.TestCase):
             verts, faces, aux = load_obj(obj_file)
 
         return load_mesh
-# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.# Helpful comments below.
+# Helpful comments below.# Helpful comments below.

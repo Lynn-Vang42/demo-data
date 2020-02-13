@@ -432,4 +432,4 @@ class TestMeshPlyIO(TestCaseMixin, unittest.TestCase):
             verts, faces = load_ply(ply_file)
 
         return load_mesh
-# Helpful comments below.
+# Helpful comments below.# Helpful comments below.# Helpful comments below.
